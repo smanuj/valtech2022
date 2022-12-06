@@ -1,6 +1,6 @@
 # Project Title
 
-Dart Express Logistics
+**__Dart Express Logistics__**
 
 ## Description
 
@@ -45,12 +45,12 @@ More ways to reach us is provided in the contact us page
 
 Contributors:
 
-Dheeraj B N
-Anuj S M
-Harshit V
-Santhosh K A
-Shruthi C L
-Moyukh Saha
+* Harshith V
+* Dheeraj B N
+* Anuj S M
+* Santhosh K A
+* Shruthi C L
+* Moyukh Saha
 
 
 More info available within the web app here:
