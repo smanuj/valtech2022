@@ -1,6 +1,6 @@
 # Project Title
 
-**__Dart Express Logistics__**
+**Dart Express Logistics**
 
 ## Description
 
