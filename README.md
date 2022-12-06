@@ -30,7 +30,7 @@ The delivery truck has onboard temperature sensor through which the temperature 
 
 * Run directly on spring boot
 ```
-* Connect throught port:6969 (http://localhost:6969/)
+Connect throught port:6969 (http://localhost:6969/)
 ```
 
 ## Help
